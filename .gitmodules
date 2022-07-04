@@ -1,9 +1,12 @@
 [submodule "DealNMeal-IOS"]
 	path = Deal-N-Meal-IOS
 	url = https://github.com/iiandmy/Deal-N-Meal-IOS
+	ignore = all
 [submodule "DealNMeal-Backend"]
 	path = Deal-N-Meal-BackEnd
 	url = https://github.com/iiandmy/Deal-N-Meal-BackEnd
+	ignore = all
 [submodule "DealNMeal-Frontend"]
 	path = Deal-N-Meal-FrontEnd
 	url = https://github.com/iiandmy/Deal-N-Meal-FrontEnd
+	ignore = all
