@@ -4,3 +4,6 @@
 [submodule "DealNMeal-Backend"]
 	path = Deal-N-Meal-BackEnd
 	url = https://github.com/iiandmy/Deal-N-Meal-BackEnd
+[submodule "DealNMeal-Frontend"]
+	path = Deal-N-Meal-FrontEnd
+	url = https://github.com/iiandmy/Deal-N-Meal-FrontEnd
